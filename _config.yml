@@ -26,7 +26,7 @@ author:
   avatar           : "../main_image.JPG"
   name             : "Maksym Tretiakov"
   pronouns         : # example: "she/her"  
-  bio              : "Quantitative Developer and Ph.D. Candidate in Statistics at LMU Munich (muniq.ai), supervised by Professor David Rugamer."
+  bio              : "Quantitative Developer at Scalable \n Ph.D. Candidate at LMU Munich"
   location         : "Munich, Germany"
   employer         : "Scalable Capital"
   uri              : "https://www.muniq.ai/"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/maxtretiakov"
+  github           : "maxtretiakov"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
