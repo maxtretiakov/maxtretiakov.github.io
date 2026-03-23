@@ -7,17 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Quantitative Developer and Ph.D. Candidate in Statistics at LMU Munich under the supervision of Professor David Rugamer.
+Maksym Tretiakov works as a Quantitative Developer at Scalable Capital in a market-making team, where he develops optimization and machine learning methods for trading and risk management.
 
-I am part of the Munich Uncertainty Quantification AI Lab ([muniq.ai](https://www.muniq.ai/)).
+He is also a Ph.D. Candidate in Statistics at LMU Munich under the supervision of Professor David Rugamer and is part of the Munich Uncertainty Quantification AI Lab ([muniq.ai](https://www.muniq.ai/)). His current research focuses on structured stochastic variational inference for Gaussian Process Latent Variable Models (GP-LVMs), with an emphasis on improving uncertainty estimation beyond mean-field approximations.
 
-I am also a visitor at the ELPIS Lab, led by Professor Vincent Fortuin ([ELPIS Lab People](https://fortuinlab.github.io/people/)).
+He is also a visitor at the ELPIS Lab, led by Professor Vincent Fortuin ([ELPIS Lab](https://fortuinlab.github.io/people/)).
 
-My recent work includes:
+Before this, he worked on research projects at Harvard Medical School (Kirschner Lab), where he applied machine learning methods to single-cell transcriptomics and contributed to a peer-reviewed publication in Developmental Biology.
 
-- Structured stochastic variational inference for Gaussian Process Latent Variable Models (GP-LVMs)
-- PAC-Bayes bounds evaluation framework (`pacbb`) in PyTorch
-- Machine learning pipelines for single-cell transcriptomics
-
-You can find full details in my [CV](/cv/).
+You can find full details in the [CV](/cv/).
 
