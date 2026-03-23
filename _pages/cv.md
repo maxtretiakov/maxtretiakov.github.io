@@ -12,8 +12,6 @@ redirect_from:
 Contact
 ======
 * Email: maxtretyakov37@gmail.com
-* Phone: +49 0176 6166 4837
-* PDF version: [CV_Tretiakov.pdf](/CV_Tretiakov.pdf)
 
 Education
 ======
@@ -36,13 +34,10 @@ Publications and Preprints
 
 Experience
 ======
-* Scalable Capital, Quantitative Developer (01/2024 -- Current)
-  * Worked on convex optimization methods for portfolio rebalancing and factor model hedging.
-  * Researched and developed factor models for Value-at-Risk (VaR) estimates to support intra-day and end-of-day risk monitoring.
-  * Worked on machine learning models for predicting limit order execution probability.
 * LMU Munich (Munich Uncertainty Quantification AI Lab), Ph.D. Candidate in Statistics (03/2026 -- Current)
   * Supervisor: Professor David Rugamer
   * Lab website: https://www.muniq.ai/
+* Scalable Capital, Quantitative Developer (01/2024 -- Current)
 * Helmholtz.AI (ELPIS Lab), Research Project (04/2025 -- Current)
   * Supervisors: Dr. James Odgers, Professor Vincent Fortuin
   * Developed a Structured Stochastic Variational Inference method for GP-LVMs, targeting limitations of mean-field variational approximations in uncertainty estimation.
